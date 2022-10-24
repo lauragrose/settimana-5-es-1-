@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: antiquewhite;
+    color: rgb(24, 23, 47);
+}
+h1 {
+    padding-top: 2rem;
+}
+h2 {
+    background-color: rgb(197, 205, 255);
+    padding: 3rem;
+}
